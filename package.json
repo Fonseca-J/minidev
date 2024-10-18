@@ -1,0 +1,22 @@
+{
+  "name": "minidev",
+  "version": "1.0.0",
+  "description": "Mini editor de código",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fonseca-J/minidev.git"
+  },
+  "author": "João Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fonseca-J/minidev/issues"
+  },
+  "homepage": "https://github.com/Fonseca-J/minidev#readme",
+  "devDependencies": {
+    "electron": "^33.0.1"
+  }
+}
